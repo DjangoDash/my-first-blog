@@ -3,6 +3,5 @@
 __pycache__
 djangodash
 myvenv
-db.sqlite3
 /static
 .DS_Store
